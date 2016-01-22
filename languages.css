@@ -1,0 +1,80 @@
+
+.col-sm-4 {
+  background-color:none;
+
+  color: black;
+  text-align: left;
+  height: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  align-content: center;
+
+}
+
+.col-sm-6 {
+  background-color:none;
+
+  color: black;
+  text-align: left;
+  height: auto;
+  margin-top: 20px;
+align-content: center;
+
+
+}
+
+body{
+  background-image: url(http://www.wallnos.com/wp-content/uploads/2015/12/White-Background-3441-HD-Wallpapers.jpg);
+}
+
+#second{
+
+
+}
+
+.row{
+margin: auto;
+}
+
+
+
+.jumbotron {
+  text-align: center;
+  margin: 0pt;
+  background-color: black;
+  background-image: url(http://atextures.com/wp-content/uploads/2014/08/Animal-Fur-Skin-Background-1-625x443.jpg);
+  color:white;
+
+
+}
+
+.imageresize {
+height: auto;
+width: 100%;
+justify-content: center;
+margin-top: -20px;
+
+}
+
+.imageresize2{
+  height: 500px;
+  width: 100%;
+  justify-content: center;
+  margin-top: -20px;
+}
+
+
+h2 span{
+color:white;
+font-size:30px;
+background: rgba(0,0,0,0.7);
+padding:20px;
+position: absolute;
+margin-top: -20px;
+
+}
+
+p{
+  text-align: center;
+  margin-bottom: 100px;
+}
